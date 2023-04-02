@@ -13,6 +13,14 @@ This is a web application for efficiently managing products. It includes functio
 
 ## Demo
 
-Link -
+Link - https://unrivaled-entremet-681062.netlify.app/index.html
 
 ## Screenshots
+
+### Home Page:
+
+![image](https://user-images.githubusercontent.com/125242584/229354947-238de7c5-da7b-4e57-9ab8-05b533e2960b.png)
+
+### View Product Page:
+
+![image](https://user-images.githubusercontent.com/125242584/229354958-d9f371aa-1400-455e-8562-173a5581ecb6.png)
