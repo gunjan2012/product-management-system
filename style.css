@@ -1,0 +1,59 @@
+/* removing the spinner button from input element */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+
+/* set image container height and width  */
+.preview-image {
+  margin: auto;
+  border: 1px solid #c8c8c8;
+  height: 130px;
+  width: 250px;
+}
+
+/* image preview */
+#prodImg {
+  display: none;
+}
+
+/* product image */
+.prod-image {
+  height: 170px;
+  width: 250px;
+}
+
+/* view delete button cursor pointer */
+.del-btn,
+.view-btn {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+/* table wrapper */
+.table-wrapper {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+/* table header */
+.table-header {
+  position: sticky;
+  top: 0px;
+  z-index: 4;
+  background-color: white;
+}
+
+/* field header */
+.col-header {
+  cursor: pointer;
+}
+
+/* media query on view product page */
+@media screen and (max-width:768px) {
+  .prod-image {
+    height: 150px;
+    width: 200px;
+  }
+}
