@@ -13,7 +13,7 @@ This is a web application for efficiently managing products. It includes functio
 
 ## Demo
 
-Link - https://unrivaled-entremet-681062.netlify.app/index.html
+Link - https://product-m-system.netlify.app
 
 ## Screenshots
 
